@@ -12,5 +12,5 @@ function minMax  (numbers) {
 console.log(minMax([1, 2, 3, 4, 5]));
 
 (function(length, bredth){
-  console.log("The area of rectange is ", len*bredth);
+  console.log("The area of rectange is ", length*bredth);
 })(5, 2);
